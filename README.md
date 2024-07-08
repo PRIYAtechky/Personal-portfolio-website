@@ -18,13 +18,12 @@ Technical Skills,Soft Skills,Design Skills,Additional Skills
 
 **4)Projects**
 
-Smart Irrigation System, Wellness Bot, Phishing Detection Website, E-Book Hub
+include only those most relevant projects or impressive projects in addition to other achievements and impact. 
 Description and links for each project
 
 **5)Contact**
 
 Contact information: email, phone, social media links
-Footer with navigation links and credits
 
 ## Technologies:
 
