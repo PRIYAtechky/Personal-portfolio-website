@@ -14,8 +14,7 @@ Education, interests, career aspirations
 
 **3)Skills**
 
-Web Development, Cloud Computing, UX Design
-Communication, Project Management, Leadership
+Technical Skills,Soft Skills,Design Skills,Additional Skills
 
 **4)Projects**
 
@@ -29,7 +28,7 @@ Footer with navigation links and credits
 
 ## Technologies:
 
-HTML5, CSS3, JavaScript
+HTML, CSS, JavaScript
 Swiper.js for review slider
 Font Awesome icons
 
