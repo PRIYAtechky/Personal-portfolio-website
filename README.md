@@ -27,7 +27,7 @@ Description and links for each project
 Contact information: email, phone, social media links
 Footer with navigation links and credits
 
-##Technologies:
+## Technologies:
 
 HTML5, CSS3, JavaScript
 Swiper.js for review slider
