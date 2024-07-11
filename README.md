@@ -33,4 +33,4 @@ Font Awesome icons
 
 ## Author
 
-Padmapriya Sravanaperumal
+Padmapriya Saravanaperumal
