@@ -5,6 +5,7 @@
 **1) Home 🏠**
 
 - Welcome message and image
+- ![Your Image](#)
 - Navigation links: Home, About Me, Skills, Projects, Contact
 
 **2) About Me 👩‍💻**
