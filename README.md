@@ -5,7 +5,6 @@
 **1) Home 🏠**
 
 - Welcome message and image
-- ![Your Image](#)
 - Navigation links: Home, About Me, Skills, Projects, Contact
 
 **2) About Me 👩‍💻**
@@ -27,6 +26,9 @@
 - Contact information: email, phone, social media links
 
 ## Technologies 🖥️
+
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
 
 - HTML, CSS, JavaScript
 - Swiper.js for review slider
