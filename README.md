@@ -27,7 +27,7 @@
 
 ## Technologies 🖥️
 
-- HTML, CSS, JavaScript
+- Web Development
 - Swiper.js for review slider
 - Font Awesome icons
 
