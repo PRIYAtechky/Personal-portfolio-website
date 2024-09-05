@@ -1,4 +1,6 @@
-# 🌟 Personal Portfolio 🌟
+# 🌟 Personal Portfolio 🌟 
+<img src="https://i.pinimg.com/736x/14/63/64/1463646ef76b0664d6acbe4896cbddc8.jpg" width="50%">
+
 
 ## Sections:
 
