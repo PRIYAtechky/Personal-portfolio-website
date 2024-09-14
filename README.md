@@ -33,9 +33,10 @@
 - Swiper.js for review slider
 - Font Awesome icons
   
-## 🔗 Visit the Portfolio
+##  Visit the Portfolio 🔗
 
 [🔍 https://priyatechky.neocities.org/my%20portfolio/](https://priyatechky.neocities.org/my%20portfolio/)
+
 
 ## Languages⚙️
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
